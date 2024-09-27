@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, my name is Umma Kulsum Erina 
+#### I am E-commerce business owner 
+![I am E-commerce business owner ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Ummakulsumerina/Ummakulsumerina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+E-commerce business savvy entrepreneur with 3 years of experience with high level business management. Skilled in Diving revenue growth, expanding product ranges and implementing effective marking Strategies.
 
-Here are some ideas to get you started:
+Skills:   Master's in Mathematics  High School Teaching Experience  Microsoft Word/Excel/PowerPoint Skills  Content Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on E-commerce business  
+- 🌱 I’m currently learning Digital marketing  
+- 👯 I’m looking to collaborate on Building website, team up with e Commerce business,  
+- 📫 How to reach me: Email: sonomerina1995@gmail.com  Phone: +8801674557772  LinkedIn:  www.linkedin.com/in/umma-kulsum-erina 
+- ⚡ Fun fact: zero is the only number that can’t be represented by Roman numerals! This reflects the importance of zero in our number system and mathematics overall. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ummakulsumerina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/umma-kulsum-erina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Erina Altaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sonomerina?igsh=eXpmZjd3OTVjbjZv/)  
+
