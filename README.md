@@ -1,5 +1,3 @@
-
-https://drive.google.com/file/d/1E8gZ-haPTJYZXnCPxAC0Oo_kT2n1Mr05/view?usp=drivesdk 
 ### Hi there 👋, my name is Umma Kulsum Erina 
 #### I am E-commerce business owner 
 ![I am E-commerce business owner ](github.com/ummakulsumerina)
@@ -27,20 +25,3 @@ Skills: Mathematics, Content writing, Microsoft excel /wrod/PowerPoint,
 ![GitHub metrics](https://metrics.lecoq.io/Ummakulsumerina)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ummakulsumerina)  
-
-
-
-<!--
-**Ummakulsumerina/Ummakulsumerina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
