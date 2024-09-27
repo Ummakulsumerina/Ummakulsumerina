@@ -1,27 +1,26 @@
 ### Hi there 👋, my name is Umma Kulsum Erina 
-#### I am E-commerce business owner 
-![I am E-commerce business owner ](github.com/ummakulsumerina)
+#### I am e-commerce business owner 
+![I am e-commerce business owner ](https://drive.google.com/uc?export=view&id=1E8gZ-haPTJYZXnCPxAC0Oo_kT2n1Mr05)
 
 E-commerce business savvy entrepreneur with 3 years of experience with high level business management. Skilled in Diving revenue growth, expanding product ranges and implementing effective marking Strategies.
 
-Skills: Mathematics, Content writing, Microsoft excel /wrod/PowerPoint, 
+Skills: Mathematical equations, Microsoft Excel /Word/PowerPoint, Content Writing 
 
-- 🔭 I’m currently working on E-commerce jewellery business  
-- 🌱 I’m currently learning Digital marketing  
-- 👯 I’m looking to collaborate on Mathematical equations, Website development,  
-- 📫 How to reach me: G-mail: sonomerina1995@gmail.com 
-- 😄 Pronouns: She 
-- ⚡ Fun fact: Sure! Here’s a shorter, funny math text:   ---  Why was the equal sign so humble? Because it knwhy did the math book look sad? It had too many problems!   
+- 🔭 I’m currently working on Online jewellery Business  
+- 🌱 I’m currently learning Digital marketing, video editing  
+- 💬 Ask me about My jewellery store  
+- 📫 How to reach me: sonomerina1995@gmail.com 
+- 😄 Pronouns: She/her 
+- ⚡ Fun fact: Zero is the only number that can't be represented in Roman numerals. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ummakulsumerina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Umma Kulsum /)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Erina Altaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Erina Altaf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Erina Altaf)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ummakulsumerina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/UmmaKulsum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ErinaAltaf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ErinaAltaf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ErinaAltaf)  
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ummakulsumerina)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ummakulsumerina)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ummakulsumerina&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ummakulsumerina)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Ummakulsumerina/contributions?format=svg&private=false)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Ummakulsumerina)  
