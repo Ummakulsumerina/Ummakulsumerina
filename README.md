@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Umma Kulsum Erina 
 #### I am e-commerce business owner 
-![I am e-commerce business owner ](![Banner](https://drive.google.com/uc?export=view&id=1O1tXLyTnXkTCJkZLXgA76uPf5N9UTeE6))
+![I am e-commerce business owner ]([Banner](https://drive.google.com/uc?export=view&id=1O1tXLyTnXkTCJkZLXgA76uPf5N9UTeE6](https://drive.google.com/uc?export=view&id=1O2Ngau2p_Foz0_hcSL9fFKIb1Z8xrsdz)))
 
 E-commerce business savvy entrepreneur with 3 years of experience with high level business management. Skilled in Diving revenue growth, expanding product ranges and implementing effective marking Strategies.
 
